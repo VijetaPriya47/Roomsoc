@@ -16,14 +16,14 @@ A **Real-Time** chat application with multiple custom rooms and user sign-up fun
 
 
 ## Local Setup for Live Demo
-###  Clone the repository using the command : `git clone https://github.com/VijetaPriya/Roomsoc.git` <br/>
+###  Clone the repository using the command: `git clone https://github.com/VijetaPriya47/Roomsoc.git` <br/>
 
 ### `npm install`
-Run this in both server and client directories to installs all dependencies required for the app to run
+Run this in both server and client directories to install all dependencies required for the app to run
 
 ### `npm start`
-Run this in both server and client directories to run the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view running app it in the browser. (React-app server)
+Run this in both server and client directories to run the app in development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view the running app in the browser. (React-app server)
 The page will reload if you make edits.<br />
 
 
